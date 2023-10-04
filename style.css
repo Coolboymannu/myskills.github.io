@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 20px;
+}
+body{
+background-color: black;
+color: white;}
+button{
+    border: 1px solid rgb(125, 5, 125);
+    width:111px;
+    height: 38px;
+    color: rgb(252, 248, 255);
+    background-color: #9625ffcf;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: #bc8bd8;
+    color: black;
+}
+.flexc{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fullnevbar{
+    font-weight: bold;
+    background-color: #6f16a1;
+
+.firstnev{
+    height: 5vh;
+    border-bottom: 5px solid ;
+}
+.nevitems{
+    width: 85vw;
+}
+.darkmod img{
+    height:4vh;
+}
+.darkmod{
+    justify-content:;
+    width: 20vw;
+}
+.leftsecond{
+    width: 10vw;
+}
+}.logo{
+    width: 7vh;
+    margin-left: 50px;
+}
+.searchbar{
+    width: 80vw;
+
+}
+.secondnev{
+    justify-content: space-between;
+}
+
+.searchbar button{
+    float: right;
+    border-radius: 1px;
+}
+.searchbar input{
+    float: right;
+    margin-top: 0.9vh;
+    border-radius: 10px;
+}
+.searchbar img{
+    width: 40px;
+    float: right;
+}
+
+/* body 1 */
+.sectionfirst{
+    height: 80vh;
+}
+.firstleft{
+    width: 35vw;
+    height: 40vh;
+    border: 3px solid purple;
+    padding: 20px;
+    line-height: 45px;
+    border-radius: 40px;
+
+}
+.firstleft:hover{
+
+    width: 36vw;
+    height: 41vh;
+
+}
+.textleft{
+
+    font-size: 40px;
+}
+.skillfullstack{
+    font-size: 30px;
+
+}
+.firstright{
+    width: 50vw;
+    /* border: 3px solid red; */
+}
+.firstright img{
+    width: 50vw;
+    /* border: 3px solid red; */
+}
+
+/* programming languages */
+
+.secondtitle h3{
+    font-size: 40px;
+}
+.secondtitle{
+    margin-top: 15vh;
+}
+
+.pl{
+    height: 50vh;
+    margin: 2vh;
+    margin-top: 10vh;
+}
+.lpimage{
+    width: 10vw;
+}
+.language{
+    width:  15vw;
+    height: 40vh;
+    border: 3px solid purple;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.language:hover{
+    width: 16vw;
+    height:  41vh;
+}
+/* third section for tootls */
+
+.thirdsection{
+    width: 90vw;
+    margin-top: 15vh;
+    /* height: 130vh; */
+    border-top: 4px solid purple;
+    
+}
+.descriptionthirdsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.toolsection{
+    height: 60vh;
+    padding: 25px 0px;
+    /* border: 3px solid red; */
+}
+.left img{
+    width: 50px;
+}
+.right img{
+    width: 30vw;
+}
+
+.left{
+    border: 2px solid purple ;
+    width: 40%;
+    height: 70%;
+    text-align: center;
+    border-radius: 45px;
+}
+
+.tootsdescreption{
+    margin-top: 33px;
+}
+.mytoolstitle{
+    font-size: 40px;
+    height: 10vh;
+    margin-top: 6vh;
+}
+
+/* fooler section */
+
+.mainfootrebox{
+    background-color: #16061f;
+    /* border: 3px solid red; */
+    height: 60vh;
+    font-size: 20px;
+    line-height: 45px;
+    
+}
+.footerline{
+    border: 1px solid purple;
+}
+.footerinnerbox{
+    /* border: 1px solid purple; */
+    height: 29vh;
+    width: 90%;
+    font-weight: 10px;
+
+}
+.footerflex b,span{
+    display: block;
+}
+.footerflex{
+    width: 25%;
+    margin: 10px;
+    border-right: 3px solid purple;
+}
+#spacialbox{
+    border: 0px solid beige;
+}
